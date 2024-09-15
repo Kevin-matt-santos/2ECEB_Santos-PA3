@@ -15,7 +15,7 @@
 ## Code of Problem 1a
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/bf45eaca-3eb8-48b7-8bab-29cbe2fa93c9">
 
-## Output 
+## Output of Problem 1a
 <img width="260" alt="image" src="https://github.com/user-attachments/assets/d87695bd-af92-4554-9fa3-80a753e2389f">
 
 
