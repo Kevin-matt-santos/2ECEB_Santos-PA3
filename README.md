@@ -57,6 +57,29 @@
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/9ada438a-d6ff-4784-be6f-0272ad834ab2">
 
 
+### c. How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
+  1. Using the .loc function, Display the row of ‘Camaro Z28’ with the 'cyl' value
+
+## Code and Output of c
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/6274df8f-a316-46e3-9c65-19751603c1f9">
+
+
+### d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have. 
+  1. Using the .loc function, Display the row of ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’  with the 'gear', and 'cyl' value
+
+## Code and Output of d
+<img width="656" alt="image" src="https://github.com/user-attachments/assets/f04f182d-5029-4b50-b9e4-426939ea60cf">
+
+
+
+
+### Saving your File as Surname_Pandas-P2.py
+  1. Click File
+  2. Click Save then Export Notebook As
+  3. Select Executable Script
+
+
+
 
 
 
